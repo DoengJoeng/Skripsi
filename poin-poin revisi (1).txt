@@ -1,0 +1,13 @@
+Revisi skripsi Hasudungan
+
+1. perbaiki kalimat-kalimat di latar belakang khususnya paragraf 1 dan 2
+2. rubah penggunaan konsuling menjadi konseling, dan konsultor menjadi konselor
+3. maksud penelitian nomor 2 dan 4 dihilangkan saja
+4. ganti semua tujuan penelitian dengan maksud yang lebih jelas dan terarah
+5. batasan masalah nomor 4 dihilangkan
+6. jelaskan analisa sistem lama di bab 3 dengan menggunakan diagram BPMN (tanya ke anak SI kalo ga tau)
+7. use case delete, create, update tidak perlu dimasukkan dalam use case diagram, buat yang lebih simple
+8. perbaiki class diagram (masih banyak yang salah), terutama penggunaan Primary Key belum terlihat di beberapa tabel,
+dan relasi antar tabel belum jelas
+9. perbaiki kalimat-kalimat yang anda gunakan, masih banyak penggalan kata, penggunaan istilah yang tidak benar,
+hampir di semua lembar banyak yang harus diperbaiki kata-katanya.
