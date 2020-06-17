@@ -1,0 +1,71 @@
+Bab2
+Gambar:
+Gambar 2.1 Simbol dan fungsi pada use case diagram
+Table:
+Tabel 2.1 Simbol Serta Penjelasan Activity Diagram
+
+Gambar 3.1 Sistem lama Bimbingan Konselling
+Gambar 3. 2 Use Case Diagram
+Gambar 3. 3 Activity Diagram  Registrasi
+Gambar 3. 4 Diagram Activity Login
+Gambar 3.5 Activity diagram form permasalahan
+Gambar 3.6 Activity Diagram  Form Gejala
+Gambar 3.7 Activity Diagram form Relasi
+Gambar 3. 8 Activity Diagram form Bimbingan
+Gambar 3. 9 Activity Diagram form Konselling
+Gambar 3.10 Sequence Diagram Register
+Gambar 3. 11 Sequence Diagram Login
+Gambar 3. 12 Sequence  Diagram form Permasalahan
+Gambar 3. 13 Sequence Diagram form Gejala
+Gambar 3.14 Sequence Diagram form Relasi
+Gambar 3.15 Sequence Diagram Form Bimbingan
+Gambar 3.16 Sequence Diagram form Konselling
+Gambar 3. 17 Class Diagram Sistem Pakar Bimbingan Konselling
+Gambar 3. 18 Tampilan login default laravel
+Gambar 3. 19 Tampilan Register default laravel
+Gambar 3. 20 Tampilan Utama
+Gambar 3.21 Tampilan dashboard admin
+Gambar 3. 22 Tampilan Gejala index
+Gambar 3. 23 Tampilan permasalahan index
+Gambar 3. 24 Tampilan relasi index
+Gambar 3.25 Tampilan Bimbingan index
+Gambar 3.26 Tampilan form Permasalahan
+Gambar 3.27 Tampilan form Gejala
+Gambar 3.28 Tampilan form Relasi
+Gambar 3.29 Tampilan form Bimbingan
+Gambar 3.30 Tampilan form Konselling
+
+Table: 
+Tabel 3.1 Kode Permasalahan Mahasiswa
+Table 3.2 Gejala Permasalahan
+Table 3.3 Solusi
+Table 3.4 Aturan Konsultasi
+Tabel 3. 5  bimbingan
+Table 3.6 gejala	
+Table 3.7   permasalahan
+Tabel 3. 8 gejalaPermasalahan
+Tabel 3. 9 konselling
+Tabel 3. 10  tmp_gejala
+Table 3.11  tmp_konselling
+
+Bab 4
+Gambar
+Gambar 4.1 Halaman Utama
+Gambar 4.2 Register default Laravel
+Gambar 4.3 Tampilan halaman login default laravel
+Gambar 4.4 Tampilan halaman home
+Gambar 4.5 Tampilan halaman permasalahan index
+Gambar 4.6Tampilan halaman gejala index
+Gambar 4.7 Tampilan halaman relasi index
+Gambar 4.8 Tampilan halaman bimbingan index
+Gambar 4.9 Tampilan halamanan konselling index
+Gambar 4.10 Tampilan halaman form permasalahan
+Gambar 4.11 Tampilan halaman form gejala
+Gambar 4.12 Tampilan halaman form relasi
+Gambar 3.13 Tampilan halaman form bimbingan
+Gambar 3.14  Tampilan  halaman form konselling
+
+
+Table
+Tabel 4. 1 Komponen Sistem Pengujian
+Tabel 4. 2 Hasil Pengujian Sistem
