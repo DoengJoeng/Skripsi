@@ -1,68 +1,65 @@
 Bab2
 Gambar:
-Gambar 2.1 Simbol dan fungsi pada use case diagram
+Gambar 2.1 Simbol dan fungsi pada use case diagram-30
 Table:
-Tabel 2.1 Simbol Serta Penjelasan Activity Diagram
+Tabel 2.1 Simbol Serta Penjelasan Activity Diagram-31
 
-Gambar 3.1 Sistem lama Bimbingan Konselling
-Gambar 3.2 Use Case Diagram
-Gambar 3.3 Activity Diagram  Registrasi
-Gambar 3.4 Diagram Activity Login
-Gambar 3.5 Activity diagram form permasalahan
-Gambar 3.6 Activity Diagram  Form Gejala
-Gambar 3.7 Activity Diagram form Bimbingan
-Gambar 3.8 Activity Diagram form Konselling
-Gambar 3.9 Sequence Diagram Register
-Gambar 3.10 Sequence Diagram Login
-Gambar 3.11 Sequence  Diagram form Permasalahan
-Gambar 3.12 Sequence Diagram form Gejala
-Gambar 3.13 Sequence Diagram Form Bimbingan
-Gambar 3.14 Sequence Diagram form Konselling
-Gambar 3.15 Class Diagram Sistem Pakar Bimbingan Konselling
-Gambar 3.16 Tampilan login default laravel
-Gambar 3.17 Tampilan Register default laravel
-Gambar 3.18 Tampilan Utama
-Gambar 3.19 Tampilan dashboard admin
-Gambar 3.20 Tampilan Gejala index
-Gambar 3.21 Tampilan permasalahan index
-Gambar 3.22 Tampilan basis pengetahuan index
-Gambar 3.23 Tampilan Bimbingan index
-Gambar 3.24 Tampilan form Permasalahan
-Gambar 3.25 Tampilan form Gejala
-Gambar 3.26 Tampilan form Bimbingan
-Gambar 3.27 Tampilan form Konselling
+Gambar 3.1 Sistem lama Bimbingan Konselling-33
+Gambar 3.2 Use Case Diagram-40
+Gambar 3.3 Activity Diagram  Registrasi-41
+Gambar 3.4 Diagram Activity Login-42
+Gambar 3.5 Activity diagram form permasalahan-43
+Gambar 3.6 Activity Diagram  Form Gejala-43
+Gambar 3.7 Activity Diagram form Bimbingan-44
+Gambar 3.8 Activity Diagram form Konselling-45
+Gambar 3.9 Sequence Diagram Register-46
+Gambar 3.10 Sequence Diagram Login-47
+Gambar 3.11 Sequence  Diagram form Permasalahan-48
+Gambar 3.12 Sequence Diagram form Gejala-49
+Gambar 3.13 Sequence Diagram Form Bimbingan-50
+Gambar 3.14 Sequence Diagram form Konselling-51
+Gambar 3.15 Class Diagram Sistem Pakar Bimbingan Konselling-51
+Gambar 3.16 Tampilan Register default laravel-55
+Gambar 3.17 Tampilan Utama-55
+Gambar 3.18 Tampilan dashboard admin-56
+Gambar 3.19 Tampilan Gejala index-56
+Gambar 3.20 Tampilan permasalahan index-56
+Gambar 3.21 Tampilan basis pengetahuan index-57
+Gambar 3.22 Tampilan Bimbingan index-57
+Gambar 3.23 Tampilan form Permasalahan-58
+Gambar 3.24 Tampilan form Gejala-58
+Gambar 3.25 Tampilan form Bimbingan-59
+Gambar 3.26 Tampilan form Konselling-59
 
 Table: 
-Tabel 3.1 Kode Permasalahan Mahasiswa
-Table 3.2 Gejala Permasalahan
-Table 3.3 Solusi
-Table 3.4 Aturan Konsultasi
-Tabel 3. 5  bimbingan
-Table 3.6 gejala	
-Table 3.7   permasalahan
-Tabel 3. 8 gejalaPermasalahan
-Tabel 3. 9 konselling
-Tabel 3. 10  tmp_gejala
-Table 3.11  tmp_konselling
+Tabel 3.1 Kode Permasalahan Mahasiswa-35
+Table 3.2 Gejala Permasalahan-36
+Table 3.3 Solusi-37
+Table 3.4 Aturan Konsultasi-37
+Tabel 3. 5  bimbingan-52
+Table 3.6 gejala-52
+Table 3.7   permasalahan-53
+Tabel 3. 8 gejalaPermasalahan-53
+Tabel 3. 9 konselling-54
+Tabel 3. 10  tmp_gejala-54
+Table 3.11  tmp_konselling-54
 
 Bab 4
 Gambar
-Gambar 4.1 Halaman Utama
-Gambar 4.2 Register default Laravel
-Gambar 4.3 Tampilan halaman login default laravel
-Gambar 4.4 Tampilan halaman home
-Gambar 4.5 Tampilan halaman permasalahan index
-Gambar 4.6Tampilan halaman gejala index
-Gambar 4.7 Tampilan halaman relasi index
-Gambar 4.8 Tampilan halaman bimbingan index
-Gambar 4.9 Tampilan halamanan konselling index
-Gambar 4.10 Tampilan halaman form permasalahan
-Gambar 4.11 Tampilan halaman form gejala
-Gambar 4.12 Tampilan halaman form relasi
-Gambar 3.13 Tampilan halaman form bimbingan
-Gambar 3.14  Tampilan  halaman form konselling
+Gambar 4.1 Halaman Utama-60
+Gambar 4.2 Register default Laravel-61
+Gambar 4.3 Tampilan halaman home-61
+Gambar 4.4 Tampilan halaman permasalahan index-62
+Gambar 4.5 Tampilan halaman gejala index-63
+Gambar 4.6 Tampilan halaman basis pengetahuan index-64
+Gambar 4.7 Tampilan halaman bimbingan index-64
+Gambar 4.8 Tampilan halamanan konselling index-65
+Gambar 4.9 Tampilan halaman form permasalahan-65
+Gambar 4.10 Tampilan halaman form gejala-66
+Gambar 4.11 Tampilan halaman form bimbingan-66
+Gambar 4.12  Tampilan  halaman form konselling-67
 
 
 Table
-Tabel 4. 1 Komponen Sistem Pengujian
-Tabel 4. 2 Hasil Pengujian Sistem
+Tabel 4. 1 Komponen Sistem Pengujian-67
+Tabel 4. 2 Hasil Pengujian Sistem-68
